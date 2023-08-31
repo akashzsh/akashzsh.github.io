@@ -669,9 +669,9 @@ pre .xml .cdata {
 main.container {
   margin: 2em 10px;
 }
-@media screen and (min-width: 700px) {
+@media screen and (min-width: 750px) {
   .wrap {
-    width: 700px;
+    width: 750px;
     margin: 0 auto;
   }
   header {
